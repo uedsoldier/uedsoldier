@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [twitter-bot](https://github.com/robertoparra/twitter-bot](https://github.com/uedsoldier/Twitter-bot) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
+| [twitter-bot](https://github.com/uedsoldier/Twitter-bot) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
 
 ---
 
