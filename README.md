@@ -42,8 +42,8 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-parra-trewartha-13500655/)
-📧 Email: uedsoldier1990@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-roberto-parra-trewartha-13500655/)
+- 📧 Email: uedsoldier1990@gmail.com
 
 ---
 
