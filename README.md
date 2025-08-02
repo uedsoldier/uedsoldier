@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roberto Parra</h1>
 <p align="center">
-  ⚙️ Mechatronics Engineer | 🔧 Embedded Systems | 🌐 Linux & IoT Enthusiast  
+  ⚙️ Mechatronics Engineer | 🔌 Embedded Systems / Harware design | 🌐 Linux & IoT Enthusiast  
 </p>
 
 
@@ -36,22 +36,20 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [bldc-fpga-controller](https://github.com/robertoparra/bldc-fpga-controller) | Open-loop/closed-loop BLDC motor control via FPGA | SystemVerilog, Vivado |
-| [iot-energy-panel](https://github.com/robertoparra/iot-energy-panel) | Power monitoring integrated into Home Assistant | ESP32, MQTT, Python |
-| [twitter-bot](https://github.com/robertoparra/twitter-bot) | Twitter bot with Redis-based queue | Python, Redis |
+| [twitter-bot]([https://github.com/robertoparra/twitter-bot](https://github.com/uedsoldier/Twitter-bot)) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertoparra)  
-📧 Email: roberto@example.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/robertoparra](https://www.linkedin.com/in/jos%C3%A9-roberto-parra-trewartha-13500655/))  
+📧 Email: uedsoldier1990@gmail.com
 
 ---
 
 <!-- Optional: GitHub stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robertoparra&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uedsoldier&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <!--
