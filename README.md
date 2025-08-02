@@ -3,17 +3,18 @@
   ⚙️ Mechatronics Engineer | 🔌 Embedded Systems / Harware design | 🌐 Linux & IoT Enthusiast  
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
 
 - 🔧 I specialize in **embedded systems**, **digital design**, and **low-level hardware integration**
 - 🛠️ My recent work focuses on **FPGA-based motor control**, **Raspberry Pi automation**, and **sensor integration**
-- 🌐 I'm experienced in building **IoT devices** from PCB to cloud — including **firmware, Linux configuration, and secure networking**
-- 📡 I enjoy working close to the metal: **bare-metal C**, **microcontrollers**, **SystemVerilog**, and **custom hardware drivers**
-- 🔍 Always exploring: **real-time systems**, **hardware abstraction**, and **power-efficient designs**
+- 🌐 I'm experienced in building **Products** from prototype to deployment — including ** PCB design, firmware, Linux configuration, secure networking and more**
+- 📡 I enjoy working close to the metal: **bare-metal C**, **microcontrollers**, **hardware description** (recently), and **custom hardware drivers**
+- 🔍 Always exploring new things
+
 ---
+
 ### 🛠️ Tech Stack
 
 - **Languages:**  
