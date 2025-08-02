@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on: FPGA-based BLDC control and IoT infrastructure  
-- 🌱 I’m learning more about: **cloud services**, **containerization**, and **automated deployment**  
-- 💬 Ask me about: **Raspberry Pi**, **FPGAs (Artix-7)**, **C/C++**, **Python**, **OPNsense**, and **Home Assistant**  
-- ⚡ Fun fact: I once made a mailbox that smokes when you press a button 😄
-
+- 🔧 I specialize in **embedded systems**, **digital design**, and **low-level hardware integration**
+- 🛠️ My recent work focuses on **FPGA-based motor control**, **Raspberry Pi automation**, and **sensor integration**
+- 🌐 I'm experienced in building **IoT devices** from PCB to cloud — including **firmware, Linux configuration, and secure networking**
+- 📡 I enjoy working close to the metal: **bare-metal C**, **microcontrollers**, **SystemVerilog**, and **custom hardware drivers**
+- 🔍 Always exploring: **real-time systems**, **hardware abstraction**, and **power-efficient designs**
 ---
 ### 🛠️ Tech Stack
 
@@ -36,7 +36,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [twitter-bot]([https://github.com/robertoparra/twitter-bot](https://github.com/uedsoldier/Twitter-bot)) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
+| [twitter-bot](https://github.com/robertoparra/twitter-bot](https://github.com/uedsoldier/Twitter-bot) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
 
 ---
 
