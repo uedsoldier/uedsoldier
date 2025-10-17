@@ -50,10 +50,6 @@
 
 ---
 
-<!-- Optional: GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uedsoldier&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
 <!--
 **uedsoldier/uedsoldier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
