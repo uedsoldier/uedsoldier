@@ -38,6 +38,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [twitter-bot](https://github.com/uedsoldier/Twitter-bot) | Docker-contained Twitter bot with Redis-based queue | Python, Docker, Redis |
+| [Custom-IoT-Server](https://github.com/uedsoldier/Custom-IoT-Server) | General purpose containerized IoT server backend | Python, Docker, MQTT broker, SQL, Home Assistant |
 
 ---
 
